@@ -15,7 +15,12 @@
       print_r($shuffled_indices);
       $strIndices =  implode( " ", $shuffled_indices); #convert the shuffled array in
       $db->insertRecord($strIndices);
-	}
+	}else{
+    #if the ip address exists in the db
+
+    $arrayVal = array_merge(array(),$db->getValuesInDB());#converts the content of record into array
+    print_r($arrayVal);
+  }  
 ?>
 </body>
 </html>
