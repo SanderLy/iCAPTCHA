@@ -1,0 +1,493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bak",
+				"background-position"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-anchor"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"btn",
+				"btnAudio"
+			],
+			[
+				"b",
+				"btnImage"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"re",
+				"retrieve_indices"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"ret",
+				"retrieve"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_row"
+			],
+			[
+				"db",
+				"dbpass"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"in",
+				"indices"
+			],
+			[
+				"Sig",
+				"SignUpForm"
+			],
+			[
+				"Si",
+				"SignUpAdmin"
+			],
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"dj",
+				"django19"
+			],
+			[
+				"d",
+				"django19"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"h",
+				"h1	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1120,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 1599,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "jquery/script.js",
+			"settings":
+			{
+				"buffer_size": 968,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "print.py",
+			"settings":
+			{
+				"buffer_size": 157,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/iCAPTCHA/bootstrap",
+		"/C/wamp/www/iCAPTCHA/jquery"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/iCAPTCHA/jquery/icaptcha.xml",
+		"/C/wamp/www/iCAPTCHA/print.py",
+		"/C/wamp/www/iCAPTCHA/jquery/script.js",
+		"/C/Users/Little Garden/Downloads/Rewrite Guide and Walkthrough - Giant Bomb_files/header_js.js",
+		"/C/wamp/www/iCAPTCHA.rar",
+		"/C/wamp/www/jQuery/index.php",
+		"/C/wamp/www/iCAPTCHA/jquery/jquery-ui.min.js",
+		"/C/wamp/www/College of Law1/Index.php",
+		"/C/Users/Little Garden/AppData/Local/Temp/Rar$DIa0.278/captcha.php",
+		"/C/wamp/www/College of Law1/scripts/jquery.jOrgChart.js",
+		"/C/wamp/www/College of Law1/StudentOrg.php",
+		"/C/wamp/www/iCAPTCHA/stylesheet.css",
+		"/E/GarenaLoLPH/GameData/Apps/LoLPH/Air/lol.properties",
+		"/C/wamp/www/dean/dean/deanspage.php",
+		"/C/wamp/www/iCAPTCHA/main.php",
+		"/C/wamp/www/iCAPTCHA/index.php",
+		"/C/Users/Little Garden/Downloads/Fisher-Yates shuffle.html",
+		"/C/wamp/www/iCAPTCHA/scripts/script.js",
+		"/C/wamp/www/iCAPTCHA/scripts/main.php",
+		"/C/wamp/www/jQuery/script.js",
+		"/C/Users/Little Garden/Desktop/django/src/newsletter/admin.py",
+		"/C/Users/Little Garden/Desktop/django/src/newsletter/forms.py",
+		"/C/Users/Little Garden/Desktop/django/src/db.sqlite3",
+		"/C/Users/Little Garden/Desktop/django/src/newsletter/views.py",
+		"/C/Users/Little Garden/Desktop/django/src/django19/settings.py",
+		"/C/Users/Little Garden/Desktop/django/src/newsletter/models.py",
+		"/C/Users/Little Garden/Desktop/django/src/django19/urls.py",
+		"/C/Users/Little Garden/Desktop/django/src/templates/home.html",
+		"/C/Users/Little Garden/Desktop/django/src/newsletter/templates/home.html",
+		"/C/Python27/Scripts/test.py",
+		"/C/wamp/www/jQuery/stylesheet.css",
+		"/C/wamp/www/jQuery/script/script.js",
+		"/C/wamp/www/jQuery/style/style.css",
+		"/C/wamp/www/xml/test.xml"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"47C9AF",
+			"100px",
+			"draggable",
+			"f",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 325.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "stylesheet.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 829.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "jquery/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								919,
+								919
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "print.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "iCAPTCHA-sublime.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
