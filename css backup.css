@@ -1,0 +1,127 @@
+/* PC                                          1366x768 */
+@media screen and (min-width: 1024px) and (max-width: 1366px) {
+     .icaptcha_container{
+        width: 23%;
+        height: 30%;
+    }
+
+    #btnImage,#btnAudio{
+    width: 35%;
+    height: 45%;
+    display: inline-block;
+    margin-top: 2%;
+    }
+
+}  
+
+/* Small Tablet Landscape               800x600 */
+@media screen and (min-width: 600px) and (max-width: 800px) {
+    .icaptcha_container{
+        width: 40%;
+        height: 20%;
+    }
+
+    #btnImage,#btnAudio{
+    width: 35%;
+    height: 45%;
+    display: inline-block;
+    margin-top: 2%;
+    }
+
+    #imgVisual, #imgAudio{
+    width: 60%;
+    margin-left: 5%;
+    }
+
+   
+}
+
+/* Small Tablet Landscape/Portrait               800x600 */
+@media screen and (min-width: 600px) and (max-width: 800px) {
+    .icaptcha_container{
+        width: 40%;
+        height: 20%;
+    }
+
+    #btnImage,#btnAudio{
+    width: 35%;
+    height: 45%;
+    display: inline-block;
+    margin-top: 2%;
+    }
+
+    #imgVisual, #imgAudio{
+    width: 60%;
+    margin-top: 0.5%;
+    margin-left: 2.5%;
+    }
+
+   
+}
+
+/* Small Tablet Portrait               800x600 */
+@media screen and (max-width: 600px){
+    .icaptcha_container{
+        width: 40%;
+        height: 30%;
+    }
+
+    #btnImage,#btnAudio{
+    width: 45%;
+    height: 45%;
+    display: inline-block;
+    margin-top: 2%;
+    }
+
+    #imgVisual, #imgAudio{
+    width: 60%;
+    margin-top: 10%;
+    margin-left: 2%;
+    }
+
+   
+}
+ 
+/* Smaller Phone Landscape                  320x240 */
+@media screen and (min-width:240px) and (max-width:320px) {
+    .icaptcha_container{
+        width: 90%;
+        height: 70%;
+    }
+
+    #btnImage,#btnAudio{
+    width: 35%;
+    height: 45%;
+    display: inline-block;
+    margin-top: 2%;
+    }
+
+    #imgVisual, #imgAudio{
+    width: 60%;
+    margin-top: 1%;
+    margin-left: 2%;
+    }
+
+}
+ 
+/* Smaller Phone Portrait       240x320 */
+@media screen and (max-width:240px) {
+     .icaptcha_container{
+        width: 86%;
+        height: 95%;
+    }
+
+    #btnImage,#btnAudio{
+    width: 55%;
+    height: 30%;
+    margin-top: 2%;
+    }
+
+    #imgVisual, #imgAudio{
+    width: 60%;
+    margin-top: 3%;
+    margin-left: 3%;
+
+    }
+
+}
