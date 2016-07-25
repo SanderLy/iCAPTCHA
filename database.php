@@ -112,21 +112,6 @@
           die("Error in database: ". mysqli_error($conn));
         }
       }
-      function getValuesInDB(){
-        $conn = new mysqli($this->servername,$this->username,$this->password);
-        mysqli_select_db($conn,'questions');
-        $this->sql_query;
-        $this->retrieve_query;
-        $this->row_query;
-        $sql_query = 'SELECT * from used WHERE id="'.$this->getIPAddress().'"';
-        if(mysqli_query($conn, $sql_query)){
-          $retrieve_query = mysqli_query($conn, $sql_query);
-          $row_query  = mysqli_fetch_row($retrieve_query);
-          return $row_query; 
-        }else{
-          die("Error in database: ". mysqli_error($conn));
-        }
-      }
     }
 
  ?>
