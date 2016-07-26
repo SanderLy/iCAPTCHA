@@ -7,7 +7,7 @@
     	var $indices = array();
     	var $sql_query;
     	var $retrieve_query;
-		var $row_query;
+		  var $row_query;
 
 		#<--------------------check the connection of the server---------------------------->	
     	function checkConnection(){
@@ -17,7 +17,7 @@
       		}
     	}
     	
-    	#<--------------------Getting the IP address of the client-------------------------->
+    #<--------------------Getting the IP address of the client-------------------------->
     	function getIPAddress (){
     		$this->ipaddress;
 		    if (getenv('HTTP_CLIENT_IP'))
@@ -112,6 +112,7 @@
           die("Error in database: ". mysqli_error($conn));
         }
       }
+      #<--------------------------Load the values inside the DB--------------------------->
       function getValuesInDB(){
         $conn = new mysqli($this->servername,$this->username,$this->password);
         mysqli_select_db($conn,'questions');
@@ -126,6 +127,22 @@
         }else{
           die("Error in database: ". mysqli_error($conn));
         }
+      }
+      #<-------------------------Load the question inside the DB-------------------------->
+      function loadQuestion($currentIndex){
+        $conn = new mysqli($this->servername,$this->username,$this->password);
+        mysqli_select_db($conn,'questions');
+        $this->sql_query;
+        $this->retrieve_query;
+        $this->row_query;
+        $sql_query = 'SELECT * from captchaq WHERE qNo='.$currentIndex;
+        if(mysqli_query($conn, $sql_query)){
+          $retrieve_query = mysqli_query($conn, $sql_query);
+          $row_query  = mysqli_fetch_row($retrieve_query);
+          return $row_query; 
+        }else{
+          die("Error in database: ". mysqli_error($conn));
+        } 
       }
     }
 
